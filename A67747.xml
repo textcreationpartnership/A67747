@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full discovery of the first Presbyterian sham-plot, or, A letter from one in London to a person of quality in the country by Andrew Yarranton.</title>
+            <author>Yarranton, Andrew, 1616-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67747</idno>
+            <idno type="STC">Wing Y15</idno>
+            <idno type="STC">ESTC R34108</idno>
+            <idno type="EEBO-CITATION">13798620</idno>
+            <idno type="OCLC">ocm 13798620</idno>
+            <idno type="VID">101888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1055:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full discovery of the first Presbyterian sham-plot, or, A letter from one in London to a person of quality in the country by Andrew Yarranton.</title>
+                  <author>Yarranton, Andrew, 1616-1684.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained and with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101888:1" rendition="simple:additions"/>
+            <p>A Full DISCOVERY Of the Firſt PRESBYTERIAN <hi>Sham-Plot.</hi> OR A LETTER From one in <hi>LONDON,</hi> TO A Perſon of Quality in the <hi>Country.</hi>
+            </p>
+            <p>By <hi>Andrew Yarranton.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Francis Smith,</hi> at the <hi>Elephant</hi> and <hi>Caſtle</hi> in <hi>Cornhil,</hi> near the <hi>Royal Exchange.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101888:2"/>
+            <pb n="3" facs="tcp:101888:2" rendition="simple:additions"/>
+            <head>A Full Diſcovery of the firſt Presbyterian Sham-Plot, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>YOU ſeem to be much concern'd (as you well may) at the preſent ſtate of Affairs amongſt us; and to won<g ref="char:EOLhyphen"/>der that the Scene ſhould be ſo ſuddenly chang'd, and the Popiſh Plot be turn'd into a Proteſtant and Presbyterian Plot. This Riddle, no doubt, aſtoniſheth many others as well as your ſelf; the Errand therefore of theſe Lines is to attempt the ſolving of it.</p>
+            <p>Two things I ſhall premiſe, to which I promiſe my ſelf I ſhall have your and every ſober Man's Conceſſion. The firſt is, That the Papiſts have long deſigned the ſubverſion of the Prote<g ref="char:EOLhyphen"/>ſtant Religion in this Kingdom: They look upon <hi>England</hi> as the great Bulwark of that which they call the Northern Hereſy; as that <hi>Roman</hi> of old reſolv'd it into a Maxime, that <hi>Carthage</hi> muſt be deſtroyed, ſo the <hi>Romaniſts</hi> of late, have univerſally a<g ref="char:EOLhyphen"/>greed that <hi>England</hi> muſt be ruin'd, or reſtor'd to the Communion of the Church of <hi>Rome.</hi> I could eaſily recount the ſeveral efforts they made in order hereunto, in the Reign of Q. <hi>Eliz.</hi> K. <hi>James</hi> and K. <hi>Charles</hi> the Firſt, as alſo during the <hi>Interregnum,</hi> but this would ſwell my Letter, and make it too Volumnious: I ſhall only therefore conſider the Methods they have meditated, for the bringing of this about ſince the Reſtauration of his Majeſty that now is, and ſome of theſe you will find in what follows. A ſecond thing I take for granted is this, That the Papiſts have little hope to enſlave this Nation, and bring it to their Lure, ſo long as it is compacted and united together; Great <hi>Britain</hi>'s Scituation and Union together make it impregnable. But <hi>Machiavil</hi>'s Aphoriſm, Devide and Rule, is well known to the Jeſuits: Diſcord therefore is the great thing they have endea<g ref="char:EOLhyphen"/>voured amongſt us, eſpecially in matters of Religion: A King<g ref="char:EOLhyphen"/>dom is eaſily ſet on Fire by a Coal from the Altar: how ſucceſs<g ref="char:EOLhyphen"/>ful they have been in this Eſſay for theſe twenty years paſt-hath been both the Obſervation and Lamentation of many.</p>
+            <pb n="4" facs="tcp:101888:3"/>
+            <p> The King at his firſt entrance (to his praiſe be it ſpoken) took a prudent courſe to obviate this Miſchief, he firſt paſſed an Act of Oblivion and Indemnity, wherein he conjured all his Subjects to follow his Example, in forbearing and forgiving one another.</p>
+            <p>After this he iſſu'd out his gracious Declaration touching Ec<g ref="char:EOLhyphen"/>cleſiaſtical Affairs, which was ſo full of Conceſſions and Con<g ref="char:EOLhyphen"/>deſcenſions, that the Miniſters about <hi>London</hi> preſented him with a gratulory Addreſs; yea, the Houſe of Commons gave him hearty. Thanks for it: and had they paſt that Declaration into an Act of Parliament, it had probably cemented, tho not every individual Perſon, yet the greateſt part by far of all the Proteſtants throughout the Nation. But ſome, both of the Clergy and Laity, that bore the greateſt, ſway rejected it, and ſo His Majeſty's good and peaceable Intentions prov'd Abortive. Theſe Men (by whoſe Inſtigations you may imagine) inſtead of an Act of Union, reſolve upon an Act of Uniformity, which they could not but know would prove the greateſt Bone of Con<g ref="char:EOLhyphen"/>tention that ever was in the Nation: And ſome of the leading Church-Men were heard to ſay, they would have an Act ſo fra<g ref="char:EOLhyphen"/>med, as ſhould reach every Puritan in the Kingdom; and if they thought any of them would ſo ſtretch their Conſciences as to be comprehended in it, they would inſert yet other Condi<g ref="char:EOLhyphen"/>tions and Subſcriptions ſo as that they ſhould have no benefit by it. But the King and Parliament (they fear'd) were not yet fully prepar'd for the paſſing of ſuch an Act: thereupon a con<g ref="char:EOLhyphen"/>trivement is ſet on foot to make a Presbyterian Plot. And this was the firſt of that nature which they took in hand. And be<g ref="char:EOLhyphen"/>cauſe it never was taken notice of by ſome, and forgotten by others, I ſhall therefore ſet it down at large; which I can the better do, becauſe I was a great Sufferer therein: and what I re<g ref="char:EOLhyphen"/>late, if occaſion be, I can prove by Letters, and many living Wit<g ref="char:EOLhyphen"/>neſſes.</p>
+            <p>This Sham-Plot was lay'd in about 16 Counties of <hi>England;</hi> But I ſhall write principally of that part of it which was execu<g ref="char:EOLhyphen"/>ted in <hi>Worceſterſhire,</hi> the Month of <hi>November,</hi> in the year 1661. Several Letters were drawn up and delivered by Sir <hi>John P—</hi> to one <hi>Richard N—</hi> his Neighbour, to carry to one — <hi>Cole</hi> of <hi>Martly</hi> about 4 Miles from <hi>Woceſter,</hi> who is now living. This — <hi>Cole,</hi> according to inſtructions, delivereth a Packet of Let<g ref="char:EOLhyphen"/>ters to one — <hi>Churne</hi> of <hi>Witchinford,</hi> who alſo is, or lately,
+<pb n="5" facs="tcp:101888:3" rendition="simple:additions"/>was alive, and dwelt near <hi>Martly.</hi> This Packet of Letters was car<g ref="char:EOLhyphen"/>ried by <hi>Coles</hi> and <hi>Churne</hi> unto Sir <hi>John P—</hi> (from whom it firſt came.) And before him <hi>Churne</hi> makes an Affidavit, that going early in the Morning to his Labour he ſtruck his Bill upon a Hedge to cut a Thorne, and by and by; on the other ſide of the Hedg, he eſpy'd a <hi>Scotch</hi> Pedlar, putting up Letters haſtily into his Pack, and being affrighted (as he ſuppos'd) he left that Packet behind in the Ditch, and went down a Lane leading to Colonel <hi>John Birch</hi> his Houſe.</p>
+            <p>This Oath being made, and the Packet delivered, as aforeſaid, and opened, it preſently appeared that there was a Conſpiracy on foot to ſtir up Rebellion in the Kingdom, and to raiſe an Army for that purpoſe; and that Capt. <hi>Andrew Yarranton</hi> was to command a Party in thoſe Parts; for which purpoſe there were ſeveral Letters directed to him from ſome Miniſters, and others: Particularly, one from Mr. <hi>Richard Baxter,</hi> Miniſter of <hi>Kederminſter,</hi>
+               <note place="margin">Mr. <hi>Baxter</hi> then at <hi>London.</hi>
+               </note> intimating that he had provided a conſiderable Body of Men, well arm'd, which ſhould be in readineſs againſt the time appointed. Another from Mr. <hi>Ambroſe Sparry</hi> the then Miniſter of <hi>Martly,</hi> intimating, that he had order'd him 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> which was lodg'd in a Friends hand,<note place="margin">No Man ſo covetous of the then Clergy.</note> (not named) and ſhould be ready for him when-ever he ſent for it. Several other Letters, and treaſonable Papers, were pretended to be in that Packet; all which occaſioned the raiſing the <hi>Militia</hi> of that County; and the City of <hi>Worceſter</hi> was filled that night with Horſe and Foot: Early the next morning, about two of the Clock, an Officer, with a Troop,<note place="margin">
+                  <hi>Nov.</hi> 9.</note> come to Mr. <hi>Yarranton</hi>'s Houſe, and ſeeing Lights in moſt of the Windows; for a ſeaſon he made a halt; but anon he drew near to the Houſe; and demanded entrance; Mrs. <hi>Yarranton</hi> told him ſhe would open the Doors, provided he would come in with no more than two Perſons beſides himſelf; to which he aſſented. And when he was come into the Houſe; he demanded of Mrs. <hi>Yarranton,</hi> where her Husband was? She anſwered, He was not at home. The Officer replyed, He was at home the Evening before: She told him, He was; but he is now gone to one Mr. <hi>Mitchel</hi>'s Houſe at <hi>Hitinton:</hi> But to let you ſee that he knows the Deſign you come about, he hath left his Man with a Horſe ready ſadled to conduct you to him. Some of the Party being Volunteers out of <hi>Worceſter,</hi> obſerving the words and deportment of Mrs. <hi>Yarranton,</hi> went preſently home again; a<g ref="char:EOLhyphen"/>mongſt whom was Mr. <hi>Winter Hains</hi> an Apothecary, and ſince
+<pb n="6" facs="tcp:101888:4"/>Mayor of <hi>Worceſter,</hi> and ſtill alive, who hath often ſaid, that very inſtant he ſmelt the Deſign. The Officer, with his Party, was brought by <hi>Henry Cowell,</hi> Mr. <hi>Yarranton</hi>'s Servant, to the Houſe of Mr. <hi>Mitchell;</hi> where finding the ſaid <hi>Yarranton,</hi> the Officer told him, He was his Priſoner, and muſt go along with him to <hi>Worceſter;</hi> and about ten a Clock the ſame day they all entred the City, where all the Trained Bands of the County were up in Arms. The ſame day ſeveral other Perſons were ſecured, as Mr. <hi>Ambroſe Spanry</hi> Mi<g ref="char:EOLhyphen"/>niſter of <hi>Martly,</hi> near which place the Sham-Packet was pretended to be found. Mr. <hi>Henry Oſland</hi> Miniſter of <hi>Bewdly;</hi> Mr. <hi>Edward Oſland</hi> of the <hi>Rocke;</hi> Dr. <hi>Jackson</hi> of <hi>Kederminſter;</hi> Mr. <hi>Moore</hi> Mi<g ref="char:EOLhyphen"/>niſter of <hi>Worceſter;</hi> Mr. <hi>Bryan</hi> Miniſter of <hi>Old Swinford;</hi> Captain <hi>Wells,</hi>
+               <note place="margin">
+                  <hi>Cap.</hi> Wells living now at <hi>Bednal<g ref="char:EOLhyphen"/>green. Mr.</hi> Vicars now liv<g ref="char:EOLhyphen"/>ing in <hi>Smithfield</hi>
+               </note> Mr. <hi>Henry Baldwin,</hi> Mr. <hi>George Wilſon,</hi> Mr. <hi>John Vicars,</hi> Mr. <hi>Mekine,</hi> all four of <hi>Worceſter:</hi> with ſome ſcores more, which I forbear to mention, all which Perſons were diſpoſed of into ſeve<g ref="char:EOLhyphen"/>ral Priſons or Places of confinement, ſo that they could not ſpeak one with another, having Sentinels always ſtanding at their ſeveral Doors. Amongſt the common People there was a great noiſe of a horrid Plot, a Presbyterian Plot, and they were ſo confirm'd in the belief of it, that the ſeveral Priſoners, as they marched with their Guards through the Streets, were greatly reviled and affronted.</p>
+            <p>All things continued in this poſture for the ſpace of ten days; after which time the Trained Bands would continue no longer, they were grown a little ſenſible of the Sham: And upon their de<g ref="char:EOLhyphen"/>parture, the Deputy Lieutenants, out of their great clemency, diſcharged all the Priſoners then in cuſtody, except Dr. <hi>Jackson,</hi> Mr. <hi>Sparry,</hi> Mr. <hi>Henry</hi> and Mr. <hi>Edward Oſland,</hi> Capt. <hi>VVells,</hi> and — <hi>Yarranton;</hi> only they muſt pay their Fees, and find good Security, not to go five miles from their Habitations, without leave firſt obtained from the Lord Lieutenant, or two Deputy Lieute<g ref="char:EOLhyphen"/>nants, to appear when they were ſent for, and in the mean time, to keep all the King's Laws, Eccleſiaſtical and Civil. This done, Mr. <hi>Sparry,</hi> Dr. <hi>Jackson,</hi> the two <hi>Oſlands,</hi> and Mr. <hi>Yarranton,</hi> were ordered to be kept cloſe Priſoners in ſeveral Chambers of the <hi>George</hi> Inn in <hi>VVorceſter;</hi>
+               <note place="margin">Jo. Shuler. <hi>Marſhal.</hi>
+               </note> ſo that no Perſon whatſoever muſt come or ſpeak to either of them but in the preſence of the Marſhal. The Trained Bands being gone, as was ſaid before, to their ſeveral Homes, care was taken for the ſecuring of theſe Criminals, by the dignified Clergy of <hi>VVorceſter,</hi> together with ſome of the fatteſt Clergy-men of the County, who provided about 60 Foot Souldiers,
+<pb n="7" facs="tcp:101888:4" rendition="simple:additions"/>which they arm'd, and paid, as ſome of them ſaid, with double pay; which Souldiers were to attend, as Sentinels, in their turns, upon each of the Priſoners, and the reſt to keep a Court of Guard in the Town-Hall of <hi>VVorceſter.</hi> Theſe were commonly called the <hi>Clergie Band;</hi> and they had for their Captain, one Mr. <hi>VVilliam Sheldon</hi> of <hi>Stoke-Prior,</hi> who hath, of a long time, as it is ſaid, be<g ref="char:EOLhyphen"/>long'd to the <hi>Rules</hi> in <hi>Southwark.</hi>
+            </p>
+            <p>I can't omit the acquainting you with one renown'd Act of Chi<g ref="char:EOLhyphen"/>valry, that was done in this Church-Court-Guard. It hapened that there came to <hi>Worceſter</hi> a poor old Man, to enquire after the Welfare of Mr. <hi>Henry Oſland</hi> his Miniſter, and ſpeaking with one of theſe Souldiers, the Souldier liberally charged Mr. <hi>Oſland</hi> with being a Traitor, a Rebel, a Plotter againſt the Government, with ſome o<g ref="char:EOLhyphen"/>ther hard Names; he ſtoutly defended his Miniſter, and ſaid he was an honeſt peaceable Man, and he could never believe he was concer<g ref="char:EOLhyphen"/>ned in any Treaſon, or Plot againſt the Government. The Church Militant-Man in great Wrath laid hold of this poor old Zealot; and carried him to the Court of Guard: he that then preſided in that Court-Martial was alſo a Church-Officer, and no meaner Man than an Apparitor; he commanded the old Man to be ty'd Neck and Heels together, charg'd him with having a Hand in this Presbyteri<g ref="char:EOLhyphen"/>an Plot, and threatned him with ſevere uſage unleſs he would make a Confeſſion. The old Man bore all this with great Patience, an<g ref="char:EOLhyphen"/>ſwering him never a Word, which ſo enrag'd this Man in Authori<g ref="char:EOLhyphen"/>ty, that he put lighted Matches betwixt his Fingers, and burnt them to the very Bone: and all this was done to force a Confeſſion from him of a Presbyterian Plot. The Name of the Perſon thus tortur'd is <hi>Roger Waldern</hi> of <hi>Bewdly,</hi> who (for ought I have heard to the contrary) is ſtill alive, and carrieth about him the ſh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vel'd Skin, which was caus'd by thoſe burning Matches betwixt his Fin<g ref="char:EOLhyphen"/>gers; and ſo are many others alive, which ſaw him in his Miſery, and contributed their help to the healing of his Hands. Now if ſo ſmall an Officer of the Church as an Apparitor, durſt be ſo hardy as to act ſuch a piece of Barbarity, contrary to all Law and Conſcience, what may we fear and expect from thoſe of a greater Figure, if once they come to have Power in their Hands? But this is a digreſſion.</p>
+            <p>This feigned Plot was not only laid in <hi>Worceſterſhire,</hi> but in other Shires and Counties of <hi>England,</hi> as I hinted before; I could fill ma<g ref="char:EOLhyphen"/>ny Sheets of Paper, if I pleaſed, with Particulars: But give me leave to inform you only of ſome Paſſages in <hi>Oxfordſhire</hi> which reſpect to
+<pb n="8" facs="tcp:101888:5"/>this Plot, which fell out about the ſame time. There dwelt in <hi>Oxford</hi> one Mr. <hi>Matthew Martin,</hi>
+               <note place="margin">
+                  <hi>Mr.</hi> Mar<g ref="char:EOLhyphen"/>tin, <hi>Brew<g ref="char:EOLhyphen"/>er, in</hi> Old<g ref="char:EOLhyphen"/>ſtreet.</note> who was then Town-Clark there; he is now a Brewer in <hi>London,</hi> and in good Reputation both for E<g ref="char:EOLhyphen"/>ſtate and Integrity. There came one Evening to his Houſe in <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> a Stranger with a Letter, who had no ſooner delivered it, but he withdrew and went his way: when Mr. <hi>Martin</hi> had open'd it and a little conſidered the Contents, he took a prudent courſe to carry it to the Mayor, as you'l hear by and by, and to do it immedi<g ref="char:EOLhyphen"/>ately; for had he tarryed a Night or an Hour, it might have been found about him, and then <hi>Oxford</hi> had quickly been as full, or fuller, of Plotters and Priſoners than <hi>Worceſter:</hi> The Copy of this memora<g ref="char:EOLhyphen"/>ble Letter I here inſert word for word.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>Mr.</hi> Martin,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Pray will you warn all theſe Men to be all in their Arms, upon Wedneſ<g ref="char:EOLhyphen"/>day next in the Night; you know already where they muſt meet. There will come into <hi>Oxford</hi> two hundred Men all in their Arms, you know who doth Command them. Dr. <hi>Greenwood</hi> has ſent to Mr. <hi>Combs</hi> the Bar<g ref="char:EOLhyphen"/>ber, to get his Party of Scholars ready that night; and I have ſent to Mr. <hi>Hickman</hi> to get his Men ready at the ſame time; and Dr. <hi>Owen</hi> has ſent to Mr. <hi>Fogge</hi> to get his Men ready at the ſame time; and <hi>Dr. Gawin</hi> has ſent to Mr. <hi>Duke</hi> the Barber, to get his Men ready at the ſame time; and I have ſent to Mr. <hi>Corniſh</hi> to get his ready at the ſame time; and I have ſent to Dr. <hi>Connaught</hi> to get his Men ready; and all the Scholars are to meet in Dr. <hi>Roger's</hi> Garden: And pray ſend the Blunderbuſſes thither, for I intend to be there my ſelf: and I pray give the Bearer hereof five pounds out of the Stock: and I pray remember me to the ſix Men unnam'd. Five Counties are to riſe that Night without fail: I need write no more to you. The Word is, <hi>God is the Word,</hi> and pray tell them all ſo.</p>
+               </body>
+            </floatingText>
+            <pb n="9" facs="tcp:101888:5" rendition="simple:additions"/>
+            <p> In this Letter was a Liſt of the Perſons Names, he was to warn, and it is as followeth.</p>
+            <list>
+               <item>Mr. <hi>Wikes</hi>
+               </item>
+               <item>Mr. <hi>Langly</hi>
+               </item>
+               <item>Mr. <hi>Cave</hi>
+               </item>
+               <item>Mr. <hi>White</hi>
+               </item>
+               <item>Mr. <hi>Lane</hi>
+               </item>
+               <item>Mr. <hi>Williams</hi>
+               </item>
+               <item>Mr. <hi>Fifill</hi>
+               </item>
+               <item>Mr. <hi>Townfend</hi>
+               </item>
+               <item>Mr. <hi>Pitman</hi>
+               </item>
+               <item>Mr. <hi>Burrows</hi>
+               </item>
+               <item>Mr. <hi>Pawling</hi>
+               </item>
+               <item>Mr. <hi>Walker</hi>
+               </item>
+               <item>Mr. <hi>Williams</hi>
+               </item>
+               <item>Mr. <hi>Jennings</hi>
+               </item>
+               <item>Mr. <hi>Short</hi>
+               </item>
+               <item>Mr. <hi>Griffin</hi>
+               </item>
+               <item>Mr. <hi>Newman</hi>
+               </item>
+               <item>Mr. <hi>Quelch</hi>
+               </item>
+               <item>Mr. <hi>Phillips</hi>
+               </item>
+               <item>Mr. <hi>Phillips</hi>
+               </item>
+               <item>Mr. <hi>Banks</hi>
+               </item>
+               <item>Mr. <hi>Prince</hi>
+               </item>
+               <item>Mr. <hi>Tindall</hi>
+               </item>
+               <item>Mr. <hi>Tindall</hi>
+               </item>
+               <item>Mr. <hi>Carter</hi>
+               </item>
+               <item>Mr. <hi>Carter</hi>
+               </item>
+               <item>Mr. <hi>Sadler</hi>
+               </item>
+               <item>Mr. <hi>Weller</hi>
+               </item>
+               <item>Mr. <hi>Edwards</hi>
+               </item>
+               <item>Mr. <hi>Dawes</hi>
+               </item>
+               <item>Mr. <hi>Drinock</hi>
+               </item>
+               <item>Mr. <hi>Berry</hi>
+               </item>
+               <item>Mr. <hi>King</hi>
+               </item>
+               <item>Mr. <hi>Carter</hi>
+               </item>
+               <item>Mr. <hi>Wix</hi>
+               </item>
+               <item>Mr. <hi>Siper</hi>
+               </item>
+               <item>Mr. <hi>Quelch</hi>
+               </item>
+               <item>Mr. <hi>Tomes</hi>
+               </item>
+               <item>Mr. <hi>Barnes</hi>
+               </item>
+               <item>Mr. <hi>Fifield</hi>
+               </item>
+               <item>Mr. <hi>Campion</hi>
+               </item>
+               <item>Mr. <hi>Lloyd</hi>
+               </item>
+               <item>Mr. <hi>Dodwell</hi>
+               </item>
+               <item>Mr. <hi>Nixſon</hi>
+               </item>
+               <item>Mr. <hi>Spur</hi>
+               </item>
+               <item>Mr. <hi>Spenſar</hi>
+               </item>
+               <item>Mr. <hi>Hodgkins</hi>
+               </item>
+               <item>Mr. <hi>Sheen</hi>
+               </item>
+               <item>Mr. <hi>Bowel</hi>
+               </item>
+               <item>Mr. <hi>Seal</hi>
+               </item>
+               <item>Mr. <hi>Painter</hi>
+               </item>
+               <item>Mr. <hi>Rogers</hi>
+               </item>
+               <item>Mr. <hi>Painter</hi>
+               </item>
+               <item>Mr. <hi>Rogers</hi>
+               </item>
+               <item>Mr. <hi>Duke</hi>
+               </item>
+               <item>Mr. <hi>Aſting</hi>
+               </item>
+               <item>Mr. <hi>Archman</hi>
+               </item>
+               <item>Mr. <hi>Gelman</hi>
+               </item>
+               <item>Mr. <hi>Titmons</hi>
+               </item>
+               <item>Mr. <hi>Lark</hi>
+               </item>
+               <item>Mr. <hi>Hands</hi>
+               </item>
+               <item>Mr. <hi>Newman</hi>
+               </item>
+               <item>Mr. <hi>Newman</hi>
+               </item>
+               <item>Mr. <hi>Nixſon</hi>
+               </item>
+               <item>Mr. <hi>Nixſon</hi>
+               </item>
+               <item>Mr. <hi>Fulks</hi>
+               </item>
+               <item>Mr. <hi>Fulks</hi>
+               </item>
+               <item>Mr. <hi>Adkins</hi>
+               </item>
+               <item>Mr. <hi>Adkins</hi>
+               </item>
+               <item>Mr. <hi>Nichols</hi>
+               </item>
+               <item>Mr. <hi>Nichols</hi>
+               </item>
+               <item>Mr. <hi>Nichols</hi>
+               </item>
+               <item>Mr. <hi>Bowel</hi>
+               </item>
+               <item>Mr. <hi>Adkins</hi>
+               </item>
+               <item>Mr. <hi>Houghton</hi>
+               </item>
+               <item>Mr. <hi>Houghton</hi>
+               </item>
+               <item>Mr. <hi>Green</hi>
+               </item>
+               <item>Mr. <hi>Wiance</hi>
+               </item>
+               <item>Mr. <hi>Luing</hi>
+               </item>
+               <item>Mr. <hi>Ryland</hi>
+               </item>
+               <item>Mr. <hi>Nixſon</hi>
+               </item>
+               <item>Mr. <hi>Bett</hi>
+               </item>
+               <item>Mr. <hi>Stinſon</hi>
+               </item>
+               <item>Mr. <hi>Foge</hi>
+               </item>
+               <item>Mr. <hi>Hombes</hi>
+               </item>
+               <item>Mr. <hi>Adams</hi>
+               </item>
+               <item>Mr. <hi>Adams</hi>
+               </item>
+               <item>Mr. <hi>Andrews</hi>
+               </item>
+               <item>Mr. <hi>Foye</hi>
+               </item>
+               <item>Mr. <hi>Jennings</hi>
+               </item>
+               <item>Mr. <hi>Langly</hi>
+               </item>
+               <item>Mr. <hi>Langly</hi>
+               </item>
+               <item>Mr. <hi>Phillips</hi>
+               </item>
+               <item>Mr. <hi>Porter</hi>
+               </item>
+               <item>Mr. <hi>Alworth</hi>
+               </item>
+               <item>Mr. <hi>Millar</hi>
+               </item>
+               <item>Mr. <hi>Prince</hi>
+               </item>
+               <item>Mr. <hi>Cave</hi>
+               </item>
+               <item>Mr. <hi>Tongue</hi>
+               </item>
+               <item>Mr. <hi>Tongue</hi>
+               </item>
+               <item>Mr. <hi>Tongue</hi>
+               </item>
+               <item>Mr. <hi>Achman</hi>
+               </item>
+               <item>Mr. <hi>Winkeil</hi>
+               </item>
+               <item>Mr. <hi>Bunch</hi>
+               </item>
+               <item>Mr. <hi>Digbee</hi>
+               </item>
+               <item>Mr. <hi>Fifeld</hi>
+               </item>
+               <item>Mr. <hi>Fifeld</hi>
+               </item>
+               <item>Mr. <hi>Adkins</hi>
+               </item>
+               <item>Mr. <hi>Bro</hi>
+               </item>
+               <item>Mr. <hi>Tredwell</hi>
+               </item>
+               <item>Mr. <hi>Bland</hi>
+               </item>
+            </list>
+            <p>The Mayor of <hi>Oxford</hi> immediately diſpatcheth a Meſſenger, with an account of theſe tranſactions to the Lord <hi>Falkland,</hi> who was then a Member of Parliament, and I think, Lord Lieutenant of the Coun<g ref="char:EOLhyphen"/>ty: the Copy of the Mayor's Letter, I think meet alſo to be here inſerted.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="10" facs="tcp:101888:6"/>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Do not love to give your Lordſhip any unneceſſary trouble, yet in regard, I perceive that by occaſion of a Letter left with Mr. <hi>Martin</hi> our Town-Clark, on Monday night laſt, there is a great noiſe made as if there were an in<g ref="char:EOLhyphen"/>tended riſing, and meeting of armed Men in this City this laſt Night, which I thought might poſſibly come to your Lorſhips Ear: I thought it therefore my duty for the preventing of miſreports (the firſt diſcovery of it being made to my ſelf) to give your Lordſhip this true and full account of the whole matter: On Monday night laſt, about eight or nine of the Clock there comes a young Man to the Town-Clark's Houſe, and deſiring to ſpeak with him, delivers him a Letter, which he ſaid one gave him on the Road between <hi>Tetſworth</hi> and <hi>Oxford,</hi> the Town-Clark deſir'd him to ſtay till he looked from whence it came; the young Man pretended great haſte, and while he turned to the Candle to open the Letter, the young Man ſlipt out of his Doors, The Town-Clark no ſooner read the two firſt Lines of it, but ſaid, ſome<g ref="char:EOLhyphen"/>body had deſign'd evil towards him; and while he read on his Letter, called for his Man and a Lanthorn, and ſo ſoon as it came, went to Captain <hi>Griffins</hi> to ſhew him what he received: not finding him at home; he repair<g ref="char:EOLhyphen"/>ed to me; told me how the Letter was left with him (ſhewing it to me) deſiring me to ſend to ſeek out Captain <hi>Griffin,</hi> that he might ſee the Con<g ref="char:EOLhyphen"/>tents of it: which accordingly I did, and he coming to me, we together peruſed the Letter, and the Liſt of Names incloſed: and conſidering them both with the Circumſtances, we preſum'd it to be at the worſt, but a de<g ref="char:EOLhyphen"/>ſign to try or to intrap the Town-Clark; we could not but commend his diſ<g ref="char:EOLhyphen"/>cretion in the ſo timely a Diſcovery, for the clearing of himſelf. I have incloſed a Copy of the Letter in ſuch <hi>Engliſh</hi> as it is written, and a Copy of the Liſt of Names, and becauſe divers of them may be unknown to your Lordſhip, I take leave to tell you that ſome of them bear Arms in your Lordſhip's Company of Foot; others of them are Perſons of known Fidelity to his Majeſty, and far from what this ſtrange Letter would ſuppoſe: tho there is a mixture alſo of ſome others with them. The Town-Clark hath made proof of the manner of his receiving the Letter, and his immediate Diſcovery, which I hope will acquit him in your Lordſhip's Judgment, as it doth in ours. My Lord, I was in my ſelf fully perſwaded, that there is nothing of ſuch weight in this buſineſs, as that it was worthy giving your Lordſhip any particular account of it: Yet upon further thoughts, I conceiv'd
+<pb n="11" facs="tcp:101888:6" rendition="simple:additions"/>it ſafer to err by overdoing, than to adventure on your Lordſhip's cenſure for coming ſhort of my Duty: If I have made the Relation too tedious to your Lordſhip, I humbly crave and hope for Pardon.</p>
+                  <closer>
+                     <signed>For I am My Lord, <hi>Your Lordſhip's Moſt Humble and Faithful Servant.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>A like Letter and Account was alſo ſent to the Recorder of <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> one of their Members in Parliament, who immediatly ſhewed it to one of the Secretaries. And thus this pretty Project miſcar<g ref="char:EOLhyphen"/>ried in <hi>Oxford,</hi> through the Providence of God, and the prudent Management of the Diſcoverers, to the great regret (no doubt) of thoſe who had cunningly enough contriv'd it. I can't learn they made any further progreſs in it, ſave only that two Deputy-Lieutenants ſent next day for Mr. <hi>Martin,</hi> and threatned at firſt to commit him to Cuſtody, but by and by they diſmiſs'd him, with this Injunction, Not to go out of the City within fourteen days, without ſpecial Licenſe. And that very night came into the Town many of the <hi>Militia,</hi> who kept Guard for two days in the City.</p>
+            <p>'Tis high time now that I return to <hi>Worceſter,</hi> and give you an account of the forementioned Plotters, in cloſe Confinement there. Dr. <hi>Jackson,</hi> by the aſſiſtance of Sir <hi>R. C.</hi> gets his Enlargement: <hi>Sparry,</hi> and one of the <hi>Oſlands,</hi> moved, that they might be bailed, or brought to Trial, but could obtain neither. <hi>Yarranton,</hi> and the other <hi>Oſland,</hi> were altogether paſſive and ſilent, waiting to ſee what iſſue God in his Providence would put to theſe arbitrary and extrajudicial Proceedings; and it was not long ere they were ſtrangely delivered: The manner was thus: On the 2d of <hi>April,</hi> 1662. the Perſon that was employed (as I have ſhewed you before) to carry the Pacquet of Sham-Letters from Sir <hi>J. P.</hi> to one <hi>Cole</hi> of <hi>Martly,</hi> acquaints his Brother how he came by the ſaid Pacquet: His Brother, immediatly upon this Diſcovery, repairs to Mrs. <hi>Yar<g ref="char:EOLhyphen"/>ranton,</hi> and informs her of it. She went to <hi>Worceſter,</hi> and prevails with the Marſhal's Maid to deliver a Paper to her Husband, where<g ref="char:EOLhyphen"/>in
+<pb n="12" facs="tcp:101888:7"/>was a Relation of the whole Matter. This being done, Mr. <hi>Yarranton</hi> having peruſed this Paper, and being thereby let in<g ref="char:EOLhyphen"/>to the knowledg of this malicious Deſign, he ordered ſix Actions to be immediatly entred againſt ſome of thoſe that brought him to Priſon. And the next day, (being <hi>Saturday</hi>) in the time of high Market, he took two Bed-ſtaffs in his hands, and broke all the Windows in the Chamber where he was confin'd, and which look'd towards the Street: Upon which the Town was in an Uproar, and a Multitude of People crouded before the Chamber,<note place="margin">The George in the <hi>High-ſtreet.</hi>
+               </note> in the broad Street, to know what the Matter was. He told them, how he and others were maliciouſly and wrongfully impriſon'd, that he could give an account of the Contrivance of this Plot, and who were the Contrivers of it. On the Wedneſday following, the Lord Lieutenant, and ſix of his Deputies, came to the Town, and ſent one <hi>Fulk Fiſher</hi> (an Officer of theirs) to Mr. <hi>Yarranton,</hi> to know the reaſon of his misbehaving himſelf in the place of his Confine<g ref="char:EOLhyphen"/>ment: He ſent them word, He did it on purpoſe, that he might be brought the ſooner before them, to make a diſcovery of the Preſ<g ref="char:EOLhyphen"/>byterian Plot, which was ſo much talk'd of, the which he was rea<g ref="char:EOLhyphen"/>dy and willing to do. After ſome Debate between the Lord Lieutenant and his Deputies about this Matter, it was at laſt re<g ref="char:EOLhyphen"/>ſolved, that <hi>Yarranton</hi> ſhould be brought before them; which was done. There he offer'd to diſcover to them the whole Plot, how it was laid, and by whom, and for what ends: He deſired that the Doors might be ſet open, for he had many Friends and Witneſſes without: He prayed alſo, that he might have Pen, Ink, and Paper, and he would write down the whole Matter, for Words might be wreſted to other Intents than they are ſpoken. This was a while debated, but in Reaſon it could not be denied; and Mr. <hi>Yarranton</hi> no ſooner began to write, but the Lord Lieutenant, and Sir <hi>J. P.</hi> left the Room, and went down the Back-Stairs, and after followed the reſt of the Deputy Lieutenants; only <abbr>Eſq</abbr> 
+               <hi>Bromly</hi> of <hi>Holt</hi> ſtay'd behind. He (it ſeems) was no way privy to this Deſign, and told Mr. <hi>Yarranton,</hi> that he was ſorry with all his Heart to ſee ſuch things practiſed, to the diſturbance of honeſt Men, and the diſ<g ref="char:EOLhyphen"/>honour of the Government. The Enemy having thus fairly quit<g ref="char:EOLhyphen"/>ted the Field, Mr. <hi>Yarranton</hi> demanded of the Marſhal, what he had further now to ſay to him: The Marſhal only made it his Requeſt, that he would not trouble him for holding him ſo long in reſtraint, foraſmuch as he was a poor Man, and had many Chil<g ref="char:EOLhyphen"/>dren,
+<pb n="13" facs="tcp:101888:7" rendition="simple:additions"/>and did only follow the Orders of his Superiors in what he had done: Mr. <hi>Yarranton</hi> told him, he did freely forgive him.</p>
+            <p>Theſe dangerous Plotters being now at liberty, they depart every Man to his home, and were never proſecuted, or further queſtion'd about this Matter. There was no need of that, for the Contri<g ref="char:EOLhyphen"/>vers had now obtained their End, which was, To poſſeſs the King and Parliament, that it was abſolutely neceſſary to make ſome ſe<g ref="char:EOLhyphen"/>vere Act againſt this reſtleſs Sort of Men, who not contented with the King's gracious Pardon, were always plotting to diſturb the Government. Accordingly, when the Parliament met together, on the 20th of <hi>November,</hi> 1661. (to which time they were Ad<g ref="char:EOLhyphen"/>journed) the King makes a Speech to them, wherein are theſe Words:</p>
+            <p>
+               <q>My Lords and Gentlemen, I am ſorry to find that the general Temper and Affections of the Nation are not ſo well compoſed as I hoped they would have been, after ſo ſignal Bleſſings of God Almighty upon us all, and after ſo great Indulgence and Conde<g ref="char:EOLhyphen"/>ſcenſions from me towards all Intereſts. There are many wicked Inſtruments ſtill, as active as ever, who labour night and day to diſturb the Publick Peace, and to make all People jealous of each other. It will be worthy of your Care and Vigilance, to provide proper Remedies for Diſeaſes of that kind; and if you find new Diſeaſes, you muſt ſtudy new Remedies. Let us not be diſ<g ref="char:EOLhyphen"/>couraged; if we help one another, we ſhall with God's Bleſſing maſter all our Difficulties. Thoſe which concern Matters of Re<g ref="char:EOLhyphen"/>ligion, I confeſs to you, are too hard for me; and therefore I do recommend them to your Care and Deliberation, which can beſt provide for them. I ſhall not need to recommend, or put you in mind of the good Correſpondence that ought to be kept between you for the Good of your ſelves and me, and the whole Kingdom; and I may tell you, it is neceſſary for us all. You will find, who<g ref="char:EOLhyphen"/>ever doth not love me, doth not love you; and they who have no reverence for you, have little kindneſs for me.</q>
+            </p>
+            <p>Thus far his Majeſty proceeded, and from this laſt Paſſage of his it may be underſtood, that they are none of the King's Friends, nor are they of his mind, who in Words or Writing do caſt Con<g ref="char:EOLhyphen"/>tempt on the Parliament. No ſooner was the Parliament in their Geers, but Sir <hi>J. P.</hi> one of the Knights for <hi>Worceſterſhire,</hi> with open mouth, informs them of a dangerous Presbyterian Plot that was on foot, and that many of the chief Conſpirators were now in
+<pb n="14" facs="tcp:101888:8"/>Priſon at <hi>Worceſter.</hi> The like Information was given by ſome of their Members, that ſerv'd for <hi>Oxfordſhire, Herefordſhire, Stafford<g ref="char:EOLhyphen"/>ſhire,</hi> and other Places. Yea, this was the general Vogue, as may appear by the printed Pamphlets of thoſe Times. Hereupon a Bill of Uniformity in the Church is excogitated, and carried on in the Parliament, and paſt that Seſſion. Few durſt be ſo hardy now, as to make oppoſition againſt it, tho I am inform'd it was carried at laſt but by two or three Votes; but of that I am not certain. How<g ref="char:EOLhyphen"/>ever, out it comes, and above two thouſand Miniſters are ejected upon it, which cauſed the greateſt Diviſion that ever was in a King<g ref="char:EOLhyphen"/>dom, and was the Foundation of all thoſe Miſeries we have ſince felt or feared. Here the Jeſuit (who ſtood behind the Curtain) gained his Point, and the unthinking Epiſcopal Man was the Cat's Foot that he made uſe of; ſo zealous were the Prelatical Clergy in promoting this Bill, that they ſpared for no Pains or Coſt to effect it.</p>
+            <p>I could wiſh it were a little enquired into, what Leaſes the Dean and Chaplain of <hi>Weſtminſter,</hi> granted of the Mannour of <hi>A.</hi> betwixt the 8th of <hi>May,</hi> and the 20th of <hi>November,</hi> 1661. unto any Perſon or Perſons, that may be juſtly ſuſpected to have a hand in contriving or carrying on the afore-mentioned Sham-Plot. Alſo that the like Enquiry might be made of the Grants of the Dean and Chapter of <hi>Worceſter,</hi> about the ſame time, and that it may be made appear in whoſe Name ſuch Leaſes were taken, and what they paid for them.</p>
+            <p>I have done with the firſt part of this <hi>Presbyterian</hi> Sham-Plot, when I have added a Paſſage or two more concerning Mr. <hi>Yarranton.</hi> As ſoon as he was diſcharged (as before) he goes up to <hi>London,</hi> and prevails with the Lord of <hi>Briſtol,</hi> to acquaint the King with the great Wrong he had received, and with the wicked Contrivance of ſome of his Miniſters by Sham-Plots, to divide the King from his People, and his People from one another. Hereupon an order of Councel was directed to the the Deputy Lieutenants of <hi>Worceſterſhire,</hi> that were then in and about <hi>London,</hi> to appear before the Councel, and to give an account of this matter, They ſeem'd to clear them<g ref="char:EOLhyphen"/>ſelves from being concern'd therein, and deſired ſuch as were in the Country might be conſulted; the next poſt they inform their Bre<g ref="char:EOLhyphen"/>thren in the Country, how Matters ſtood before the Councel, &amp; that the Lord of <hi>Briſtol</hi> did patronize Mr. <hi>Yarranton,</hi> upon this Sir <hi>J. W.</hi> one of the Deputy Lieutenants, haſtens up to <hi>London,</hi> and brings
+<pb n="15" facs="tcp:101888:8" rendition="simple:additions"/>with him one <hi>Hales</hi>
+               <note n="*" place="margin">Now li<g ref="char:EOLhyphen"/>ving in <hi>Tenbury.</hi>
+               </note> (an Attorney, his Kinſman and Tenant.) Which <hi>Hales,</hi> with the Conſtable of St <hi>Mary Overies,</hi> and one <hi>Hal<g ref="char:EOLhyphen"/>borne</hi> a Water-man (now living in <hi>Pepper-Ally</hi> in <hi>Southwark</hi>) arreſted Mr. <hi>Yarranton</hi> (when he was bowling in <hi>Wincheſter-Park</hi>) for High Treaſon, and being farther aſſiſted by ſome of the Horſe Guards then in <hi>Southwark,</hi> conveyed the ſaid <hi>Yarranton</hi> in <hi>Halborn</hi>'s Boat to <hi>White-Hall;</hi> where he was that Night in Cuſtody, but on the Morrow, the Earl of <hi>Briſtol</hi> ſent the Kings Privy-Seal to a Friend of Mr. <hi>Yarranton</hi>'s, who brought it to him, wherein it was declared, that it was the King's Pleaſure he ſhould travel where he liſted, and not be moleſted by any Perſon whatſo<g ref="char:EOLhyphen"/>ever, without a ſpecial' Warrant from the King. A little after Sir <hi>Kenelm Digby</hi> (Chancellor to the Queen-Mother) ſends for Mr. <hi>Yarranton,</hi> and was very earneſt to know from him the bottom of this pretended Plot. He relates the whole matter from the be<g ref="char:EOLhyphen"/>ginning to the end to Sir <hi>Kenelm Digby,</hi> upon which Sir <hi>Kenelm</hi> produced two Letters from <hi>Paris,</hi> ſignifying, that they were of Opinion in <hi>France,</hi> that we in <hi>England</hi> were taking one another by the Throat again, which inclined that King to joyn with the <hi>Dutch</hi> againſt the <hi>Engliſh,</hi> which after a little time came to paſs. Theſe two Letters are to be ſeen, as being lodged in a ſafe Hand, after the death of Sir <hi>Kenelm</hi> by his Executor. Mr <hi>Yarranton</hi> ſeeing how Matters went in <hi>London,</hi> reſolved to return again into the Country, where he proſecuted Major <hi>Wild,</hi> and others for impri<g ref="char:EOLhyphen"/>ſoning of him wrongfully, but within ſix Months after a Deſign is laid by ſome of the Criminals in the former Sham-Plot, to ſubborn Perſons to ſwear againſt him, that he had ſpoken Treaſonable Words againſt the King and Government, the Witneſſes were one <hi>Dainty,</hi> (a Mountebank, formerly an Apothecary in <hi>Darby</hi>) who afterwards acknowledged that he had 5 <abbr>
+                  <hi>l.</hi>
+               </abbr> for his pains; the other Witneſs liv'd in <hi>Wales,</hi> and went by two Names. This was done at the Aſſizes in <hi>Worceſter;</hi> the Bill being found by the Grand Jury,<note place="margin">
+                  <hi>Twiſden</hi> then Judg.</note> Mr. <hi>Yarranton</hi> put himſelf upon his Trial, and tho he did not except againſt any one of his Jury, yet upon a full hearing of the Caſe they preſently acquitted him, which was a great Diſappoinment to the deſigning Gentlemen. The Clarke the of Peace (Mr. <hi>Parker</hi>) and the Officers belonging to the Eccleſiaſtical Court, were not a lit<g ref="char:EOLhyphen"/>tle diſguſted; for now the Sham-Plot was diſcover'd, which had brought a great deal of Griſt to their Mills, for tho the Innocent Pa<g ref="char:EOLhyphen"/>piſts were conniv'd at, the turbulent Fanaticks were punſh'd by whole-ſale, both in the Civil and Eccleſiaſtical Court.</p>
+         </div>
+         <div type="postscript">
+            <pb n="16" facs="tcp:101888:9" rendition="simple:additions"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I know you did expect from me, that I ſhould have given you an Account of the particulars of the ſeveral Tranſactions as to the Shamplot, which was acted in <hi>Warwick, Gloceſter, Hereford, Sa<g ref="char:EOLhyphen"/>lop, Stafford, Cheſhire,</hi> and <hi>Lancaſhire,</hi> both as to the Perſons impriſon'd, the day when, and by whom, and how it was managed by the Plotters, but I muſt beg your Excuſe: for that Matter, and all its wicked Intents, and what Evil it hath been the occaſion of propagating in this Nation, I underſtand is ready for the Preſs, being faithfully collected by ſeveral Perſons who were great Sufferers in that Affair.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
